@@ -1,19 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=KhojLive&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fleet%20Tracking%20%26%20Delivery%20Management%20System&descAlignY=60&descSize=22" width="100%" />
+# 🚚 KhojLive
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=750&lines=Track+your+fleet+in+real+time+%F0%9F%9A%9A;Live+GPS+on+the+Dispatcher+Dashboard+%F0%9F%93%8D;Driver+app+that+works+even+offline+%F0%9F%93%B1;Auto+sync+when+the+network+is+back+%F0%9F%94%84;Smart.+Fast.+Reliable.+%E2%9A%A1" alt="Typing SVG" />
+### Fleet Tracking and Delivery Management System
+
+<a href="https://github.com/keshavappdev/khojlive-fleet-tracking-system">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Track+your+fleet+in+real+time;Live+GPS+on+the+Dispatcher+Dashboard;Driver+app+that+works+offline;Auto+sync+when+the+network+is+back" alt="Track your fleet in real time | Live GPS | Offline driver app | Auto sync" />
 </a>
 
 <br/>
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 
 </div>
 
@@ -183,7 +185,5 @@ Feel free to open an issue or submit a pull request.
 <div align="center">
 
 ⭐ **If you like this project, give it a star!** ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
 
 </div>
