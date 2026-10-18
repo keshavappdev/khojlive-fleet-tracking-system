@@ -1,0 +1,12 @@
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:flutter_riverpod/legacy.dart';
+import '../core/api_client.dart';
+import '../core/local_store.dart';
+import '../core/sync_manager.dart';
+import '../features/tracking/location_service.dart';
+final apiProvider=Provider<ApiClient>((ref)=>ApiClient());
+final storeProvider=Provider<LocalStore>((ref)=>throw UnimplementedError('Override in main'));
+final syncProvider=Provider<SyncManager>((ref)=>SyncManager(ref.read(storeProvider),ref.read(apiProvider)));
+final locationProvider=Provider<LocationService>((ref)=>LocationService(ref.read(storeProvider)));
+final sessionProvider=StateProvider<bool>((ref)=>false);
+final tickProvider=StateProvider<int>((ref)=>0);

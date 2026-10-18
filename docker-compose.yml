@@ -1,0 +1,14 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: khojlive
+      POSTGRES_PASSWORD: dev_only_change_me
+      POSTGRES_DB: khojlive
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./backend/sql/schema.sql:/docker-entrypoint-initdb.d/001-schema.sql:ro
+volumes:
+  pgdata:

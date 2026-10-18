@@ -1,0 +1,22 @@
+# Secrets and local environment overrides
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*service-account*.json
+*serviceAccount*.json
+credentials.json
+secrets.json
+# Dependencies, build outputs, runtime data
+node_modules/
+dist/
+build/
+coverage/
+*.log
+.DS_Store
